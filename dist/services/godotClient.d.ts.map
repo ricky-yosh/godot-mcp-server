@@ -1,0 +1,1 @@
+{"version":3,"file":"godotClient.d.ts","sourceRoot":"","sources":["../../src/services/godotClient.ts"],"names":[],"mappings":"AAAA,OAAc,EAAE,aAAa,EAAc,MAAM,OAAO,CAAC;AAMzD,wBAAgB,cAAc,IAAI,aAAa,CAS9C;AAED,wBAAsB,YAAY,CAAC,CAAC,EAClC,MAAM,EAAE,KAAK,GAAG,MAAM,GAAG,QAAQ,EACjC,IAAI,EAAE,MAAM,EACZ,IAAI,CAAC,EAAE,OAAO,GACb,OAAO,CAAC,CAAC,CAAC,CA4BZ"}
